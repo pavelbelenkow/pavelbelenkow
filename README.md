@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi, I'm Pavel!
+---
 
-<!--
-**pavelbelenkow/pavelbelenkow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a junior iOS-developer based in Moscow, Russia.
 
-Here are some ideas to get you started:
+- ⚙️ Love workin with: Swift+UIKit
+- 📫 Reach me asap: <a href="https://t.me/paulkow/">Telegram</a> or stargazing1@ya.ru
+- 🌱 Interests: English, Leetcode, cycling, music, movies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My pet projects
+
+🛒 [FakeNFT](https://github.com/pavelbelenkow/iOS-FakeNFT) - marketplace with NFT objects that can be viewed and purchased with cryptocurrency
+✍️ [Tracker](https://github.com/pavelbelenkow/Tracker) - app to track user habits. Simplified analog of the system "Reminders" app in iPhone
+❓ [MovieQuiz](https://github.com/pavelbelenkow/MovieQuiz-ios) - app with quizzes about movies from the top 250 and the most popular movies according to IMDb
+📸 [ImageFeed](https://github.com/pavelbelenkow/ImageFeed) - app for watching an endless feed of images from Unsplash Editorial
