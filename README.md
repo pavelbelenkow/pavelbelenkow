@@ -3,7 +3,7 @@
 #### 🧑‍💻 I'm a junior iOS-developer based in Moscow, Russia
 
 - ⚙️ Love workin with: Swift+UIKit
-- 📫 Reach me asap: <a href="https://t.me/paulkow/">Telegram</a> or stargazing1@ya.ru
+- 📫 Reach me asap: <a href="https://t.me/paulkow/">Telegram</a> or [stargazing1@ya.ru](mailto:stargazing1@ya.ru)
 - 🌱 Interests: English, Leetcode, cycling, music, movies
 
 #### 🫶 My pet projects
