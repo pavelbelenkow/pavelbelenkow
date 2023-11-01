@@ -9,7 +9,7 @@
 #### 🫶 My pet projects
 
 - 🛒 [FakeNFT](https://github.com/pavelbelenkow/iOS-FakeNFT) - marketplace with NFT objects that can be viewed and purchased with cryptocurrency
-- ✍️ [Tracker](https://github.com/pavelbelenkow/Tracker) - app to track user habits. Simplified analog of the system "Reminders" app in iPhone
+- ✍️ [Tracker](https://github.com/pavelbelenkow/iOS-FakeNFT/tree/develop) - app to track user habits. Simplified analog of the system "Reminders" app in iPhone
 - ❓ [MovieQuiz](https://github.com/pavelbelenkow/MovieQuiz-ios) - app with quizzes about movies from the top 250 and the most popular movies according to IMDb
 - 📸 [ImageFeed](https://github.com/pavelbelenkow/ImageFeed) - app for watching an endless feed of images from Unsplash Editorial
 
