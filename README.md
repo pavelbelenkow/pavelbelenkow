@@ -1,6 +1,6 @@
 ## ✌️ Hi, I'm Pavel !
 
-#### 🧑‍💻 I'm a junior iOS-developer based in Moscow, Russia
+#### 🧑‍💻 I'm a iOS-developer based in Moscow, Russia
 
 - ⚙️ Love workin with: Swift+UIKit
 - 📫 Reach me asap: <a href="https://t.me/paulkow/">Telegram</a> or [stargazing1@ya.ru](mailto:stargazing1@ya.ru)
