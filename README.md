@@ -13,5 +13,3 @@
 - 🍝 [Restaurant](https://github.com/pavelbelenkow/Restaurant) - app for ordering dishes in restaurant's menu
 - 🕹️ [MovieQuiz](https://github.com/pavelbelenkow/MovieQuiz-ios) - app with quizzes about movies from the top 250 and the most popular movies according to IMDb
 - 📸 [ImageFeed](https://github.com/pavelbelenkow/ImageFeed) - app for watching an endless feed of images from Unsplash Editorial
-
-#### 🔖 My CV - [Pavel Belenkov](https://pavelbelenkow.notion.site/Pavel-Belenkov-3282315ae4274f468460d69d72551a74?pvs=4)
